@@ -12,7 +12,7 @@ export function Header({ onOpenNewTransactionsModal }: HeaderProps) {
       <Content>
         <img src={logoImg} alt="Money Under Control" />
         <button type="button" onClick={onOpenNewTransactionsModal}>
-          New transaction
+          Nova transação
         </button>
       </Content>
     </Container>
