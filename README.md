@@ -14,7 +14,7 @@ $ git clone git@github.com:ldvndev/MoneyUnderControl.git
 
 ```bash
 # Install Dependencies
-$ yarn install
+$ yarn 
 
 # Run Aplication
 $ yarn start
