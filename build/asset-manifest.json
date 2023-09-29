@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/ldvndev/MoneyUnderControl/static/js/main.50d1cfbe.js",
+    "static/media/logo.svg": "/ldvndev/MoneyUnderControl/static/media/logo.574eefd3998583f386f34470ae21e964.svg",
+    "static/media/total.svg": "/ldvndev/MoneyUnderControl/static/media/total.cf38b13a97328f86f0801886c86c5793.svg",
+    "static/media/outcome.svg": "/ldvndev/MoneyUnderControl/static/media/outcome.2bc13c25e2f0b6cf4702fafc3624a605.svg",
+    "static/media/income.svg": "/ldvndev/MoneyUnderControl/static/media/income.db4e59a91c4ad31975a78276c8fdae18.svg",
+    "static/media/close.svg": "/ldvndev/MoneyUnderControl/static/media/close.f001abbdba61ab17c87cf5de30383914.svg",
+    "index.html": "/ldvndev/MoneyUnderControl/index.html",
+    "main.50d1cfbe.js.map": "/ldvndev/MoneyUnderControl/static/js/main.50d1cfbe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.50d1cfbe.js"
+  ]
+}
