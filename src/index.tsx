@@ -13,19 +13,19 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: 'Freelance de website',
+          title: 'Freelance',
           type: 'deposit',
-          category: 'Dev',
-          amount: 6000,
-          createdAt: new Date('2021-02-12 09:00:00'),
+          category: 'Developer',
+          amount: 1500,
+          createdAt: new Date('2023-01-02 22:15:00'),
         },
         {
           id: 2,
-          title: 'Aluguel',
+          title: 'Starfield Premium Edition',
           type: 'withdraw',
-          category: 'Casa',
-          amount: 1100,
-          createdAt: new Date('2021-02-14 11:00:00'),
+          category: 'Game',
+          amount: 499.95,
+          createdAt: new Date('2023-01-05 09:15:00'),
         }
       ]
     })

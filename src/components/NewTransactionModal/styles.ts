@@ -53,9 +53,9 @@ export const Container = styled.form`
 export const TransactionTypeContainer = styled.div`
   margin: 1rem 0;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr;
   gap: 0.5rem;
-`
+`;
 
 interface RadioBoxProps {
   isActive: boolean;
@@ -63,8 +63,8 @@ interface RadioBoxProps {
 }
 
 const colors = {
-  green: '#00875F',
-  red: '#F75A68'
+  green: '#33cc95',
+  red: '#e52e4d'
 }
 
 export const RadioBox = styled.button<RadioBoxProps>`
